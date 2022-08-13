@@ -15,4 +15,4 @@ Each activity details along with its time and date are presented in the table fo
 * Display an error message when a customer tries to track a non-existing order or if the tracking data is missing of any order.
 * Improve the order delivery experience of your store.
 
-For more information, visit : [https://meetanshi.com/magento-2-chile-post-tracking.html][https://meetanshi.com/magento-2-chile-post-tracking.html)
+For more information, visit [https://meetanshi.com/magento-2-chile-post-tracking.html](https://meetanshi.com/magento-2-chile-post-tracking.html)
